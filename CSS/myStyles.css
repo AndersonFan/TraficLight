@@ -1,0 +1,63 @@
+
+@font-face {
+	font-family: Abel;
+	src: url("../fonts/Abel.ttf") format("truetype");
+}
+
+h1{
+	height:24px;
+	background-color: #ffffff;
+	text-align: center;
+	font-size: 18px;
+}
+
+#TraficLight{
+
+    background-color: #e6eeff;
+    width:150px;
+    height:350px;
+    margin-left: 43%;
+    margin-top: 5%;
+}
+
+.light{
+	border: 10px solid black;
+	width:70px;
+	height: 70px;
+	border-radius: 50px;
+	margin-left: 45.5%;
+	position: absolute;
+}
+
+#top{
+	top:100px;
+	background-color: #ff4500;
+}
+
+#mid{
+
+	top:200px;
+	background-color: #ffffe0;
+}
+
+#bot{
+	top:300px;
+	background-color: #adff2f;
+}
+
+.button{
+	font-family: Abel;
+	border:2px solid black;
+	width:150px;
+	height:30px;
+	text-align: center;
+	font-size: 25px;
+	border-radius: 15px;
+	float: left;
+	margin-top: 5%
+	}
+
+/* #red{
+	margin-left: 30%;
+
+} */
